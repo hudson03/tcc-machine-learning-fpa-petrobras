@@ -1,0 +1,360 @@
+{
+  "title": "Material complementar do TCC de Hudson Henrique Alves da Silva",
+  "repository": "https://github.com/hudson03/tcc-machine-learning-fpa-petrobras",
+  "generated_at_utc": "2026-09-20T23:25:02.079598+00:00",
+  "file_count_excluding_manifest": 70,
+  "total_size_bytes_excluding_manifest": 6256259,
+  "reproducibility_status": "PASS",
+  "files": [
+    {
+      "path": ".gitignore",
+      "sha256": "CBFDE9D5F3E538498C2D3A8E1511C3F9CAF731B78E2206114BD4E2224F3ACD2D",
+      "size_bytes": 56
+    },
+    {
+      "path": "codigo/build_corpus_manifest.py",
+      "sha256": "FCBCF3A1304DA8D71AFEB60E8211253D022C8F0A6015354D18C3F341D0561B0A",
+      "size_bytes": 4176
+    },
+    {
+      "path": "codigo/finalize_audit_outputs.py",
+      "sha256": "6DF221D4D9C7BC74CBD5A5642BA6D10317BD7436FF29BB2B09A66AA1773EEEE9",
+      "size_bytes": 2604
+    },
+    {
+      "path": "codigo/run_audit.py",
+      "sha256": "0FDB699EA093B041C8FD819A27C8B6918C64193C3A49DB032B806CD8E978EED9",
+      "size_bytes": 46765
+    },
+    {
+      "path": "codigo/run_driver_models.py",
+      "sha256": "E86FFD819F0FA29777FE8AAA50E59ACD4D324376F17D441FE2637E1B83D2FB81",
+      "size_bytes": 15828
+    },
+    {
+      "path": "codigo/run_driver_models_sgs3698_full.py",
+      "sha256": "A21FA4F3D126AAA6CD158ED4EB05A7FD20119ADC00E98D3C98509553E5309875",
+      "size_bytes": 15664
+    },
+    {
+      "path": "codigo/summarize_bcb_audit.py",
+      "sha256": "E3D605B2B0455753C302E1DF1C9A349955918D2CA6C2F7E1FA1F7CAFF9B99423",
+      "size_bytes": 5360
+    },
+    {
+      "path": "codigo/train_models.py",
+      "sha256": "F3E772DB80DDE8E09DA4478CA05DFEC44D2F34802BD5035B248874AED69A8FAA",
+      "size_bytes": 13914
+    },
+    {
+      "path": "corpus/corpus_documental_petrobras_1T06_2T26.csv",
+      "sha256": "366904DAD2066DA3D9B8BAD2D2D817509091B7258FDD39372B7327319E11861B",
+      "size_bytes": 27586
+    },
+    {
+      "path": "corpus/manifesto_corpus_documental.json",
+      "sha256": "460CF9D4B8226D9BC79053189F9DB6CC00025915A7DE15EFE87E397D0D751976",
+      "size_bytes": 1019
+    },
+    {
+      "path": "dados/DRE_Petrobras_2006_2026_PIPELINE_RECONSTRUIDO_4T18.xlsx",
+      "sha256": "B836A541CB3628B17ECC3A05242A4F0A6DFDDF2951DBAB4CFB0853A34E453590",
+      "size_bytes": 1668956
+    },
+    {
+      "path": "dados/ml_source.json",
+      "sha256": "DD1EEEF69336F1D74CFEC0EDAE5E79AC71096C13E8E2CF5F9C7401DF5E1F2293",
+      "size_bytes": 151350
+    },
+    {
+      "path": "fontes_externas/AUDITORIA_BCB_SGS3698.md",
+      "sha256": "96822623226A73B54A22527432CAD24623C8D36D3B02813BB6896167B7814290",
+      "size_bytes": 563
+    },
+    {
+      "path": "fontes_externas/bcb_model_metric_comparison.csv",
+      "sha256": "BA27E5E8247B4B494BC3C8F6BE3604E93EB0BE96D13C4C1B4E3D691978FB218D",
+      "size_bytes": 2820
+    },
+    {
+      "path": "fontes_externas/bcb_quarterly_comparison.csv",
+      "sha256": "F8AEEE9DDF3F468EA95B6088C6DB5748242722704DA066DE5043D4ABF8523F1D",
+      "size_bytes": 5800
+    },
+    {
+      "path": "fontes_externas/bcb_sgs3698_2006_2026H1.json",
+      "sha256": "CB3D702845E6995C9EDDCC71137C0F351D091028532AB6AD283B3D5567D42B3B",
+      "size_bytes": 15009
+    },
+    {
+      "path": "fontes_externas/bcb_sgs3698_audit.json",
+      "sha256": "622D2FE9AE18BAB7F8A101B0F34EB03B32A907AF127C7BAC9751B974808FC21B",
+      "size_bytes": 1472
+    },
+    {
+      "path": "fontes_externas/originais/bcb_sgs3698_page1_rows.json",
+      "sha256": "EB63CCA61741F53FA41E6DE17D0FBDF6ECBC554995CD6F49B0A43CE13538CAB3",
+      "size_bytes": 11062
+    },
+    {
+      "path": "fontes_externas/originais/bcb_sgs3698_page2_rows.json",
+      "sha256": "FA5A363E047660CFF4A39AA17A98D916620995440E68E2512DAD7BD4B7ED74C8",
+      "size_bytes": 3610
+    },
+    {
+      "path": "fontes_externas/originais/bcb_usdbrl_2006_2015.json",
+      "sha256": "A25906FF5C22B0B8245DF49E13C399459B693752EA57BFBFE887F5355F9F3B93",
+      "size_bytes": 97969
+    },
+    {
+      "path": "fontes_externas/originais/bcb_usdbrl_2016_2025.json",
+      "sha256": "1C94B93EBEA78A2FE83BB0096DC3EAB31C7F0F2E68591EC44B1440A200EF2D0B",
+      "size_bytes": 97891
+    },
+    {
+      "path": "fontes_externas/originais/eia_brent_monthly_rows.json",
+      "sha256": "391EBCB52CE25889D3F658A807BF40B22A6D4C42706BED2894F837AA5382B6C9",
+      "size_bytes": 6355
+    },
+    {
+      "path": "README.md",
+      "sha256": "BA7B9FA39D7E0F1DEEA93CDE695FAAB54B952978F6A4F3BE4398BE8BB96FDDA4",
+      "size_bytes": 3737
+    },
+    {
+      "path": "reproducao/audit_results.json",
+      "sha256": "5DC10A091F6C6922D5DB3AB67CBE1C52C61F4C755B9CF7F3D80AC49E19FE3174",
+      "size_bytes": 39083
+    },
+    {
+      "path": "reproducao/AUDITORIA_MODELAGEM.md",
+      "sha256": "8F4B175F9A7FCF16CA13658FAA743596510305D1825FC0854F98E826D0CED513",
+      "size_bytes": 2820
+    },
+    {
+      "path": "reproducao/best_hyperparameters.json",
+      "sha256": "AA352219357214A66BEF192F7674345A2D34A6AF1B7CB5555B9061474190D854",
+      "size_bytes": 1515
+    },
+    {
+      "path": "reproducao/checkpoint.json",
+      "sha256": "00D1A06DBFD6604436305C9D721AF0B4D01533C80C03AD8A6288399A85FF4095",
+      "size_bytes": 148
+    },
+    {
+      "path": "reproducao/data_audit.json",
+      "sha256": "23674630F8147D8C127C38DFFCDC56EC9AE52F8C8C2CE988748E31AFC7123D50",
+      "size_bytes": 493
+    },
+    {
+      "path": "reproducao/environment.json",
+      "sha256": "E880582F06572DE54FF1D39D088B4D500FD30804CCEC0E48CCEFC701C730F334",
+      "size_bytes": 1532
+    },
+    {
+      "path": "reproducao/expanding_window_counts.csv",
+      "sha256": "F6A8CD08BA99CA7F68696C8E035183DBB547259DC4C898D88B44BB7C3AA7F557",
+      "size_bytes": 3331
+    },
+    {
+      "path": "reproducao/implementation_comparison.csv",
+      "sha256": "38BB9C3D96866F9C4BD72080CA06442865F745E435E71C54030F559F802C405C",
+      "size_bytes": 875
+    },
+    {
+      "path": "reproducao/manifest.json",
+      "sha256": "65E51AA9EE1E36CA1D45D9BABDF962F622BB14FEF7D4E3F00106C5651CB6B39A",
+      "size_bytes": 1881
+    },
+    {
+      "path": "reproducao/metrics_all_candidates.csv",
+      "sha256": "7911A7ABF9D87813F0896D07A786AF3DAAB93A4E7E67BB36E8927FE2F84BB91C",
+      "size_bytes": 13726
+    },
+    {
+      "path": "reproducao/metrics_by_segment.csv",
+      "sha256": "1570AEE1B3B75C2E70B25219AB1680C4D7787B595EDF6F98CDCB47AC68F561ED",
+      "size_bytes": 55342
+    },
+    {
+      "path": "reproducao/operational_selection.csv",
+      "sha256": "5741FDBF570E5D793AE40E32DBDB8EF029E1304F65DA28E3F2B63C34B7424D6F",
+      "size_bytes": 413
+    },
+    {
+      "path": "reproducao/original_results_reconciliation.csv",
+      "sha256": "86E9549AA60B5560C7F668BB6035D6A869C7FF9FA3CCC065B16421BAF7B83B7B",
+      "size_bytes": 6733
+    },
+    {
+      "path": "reproducao/predictions_all_candidates.csv",
+      "sha256": "55F0B5D1CBCEC5A2FAA5DF1A602B76DD07F0530F896A22D8443A71F4FBFD2332",
+      "size_bytes": 411624
+    },
+    {
+      "path": "reproducao/ridge_coefficients_by_window.csv",
+      "sha256": "CE81549A5E8F442536233082E2245DFCEB11EB1FD4E0F166615B04809B8B47E4",
+      "size_bytes": 630546
+    },
+    {
+      "path": "reproducao/ridge_stability_by_feature.csv",
+      "sha256": "1672B878DDB80A87CDF0F5993D91752BCE0F3211202E9E36599015CFC77C2630",
+      "size_bytes": 36943
+    },
+    {
+      "path": "reproducao/ridge_stability_overview.csv",
+      "sha256": "ACDEBC27D6007A4003D5AE29DFE3546FB91ED20E1C4CA5E2E2F6E5561A3AD71B",
+      "size_bytes": 801
+    },
+    {
+      "path": "reproducao/ridge_window_metadata.csv",
+      "sha256": "0DFD69DF39A581756A9E1D142587E8B15D12BD2861A1686A9EA747392D76BE9B",
+      "size_bytes": 16507
+    },
+    {
+      "path": "reproducao/sample_counts.csv",
+      "sha256": "8C7A40E8FE64481ACA6A2B3F3C46DD9D215803189BD4625E3AFF2A3EEE7F7651",
+      "size_bytes": 5937
+    },
+    {
+      "path": "reproducao/seeds_used.csv",
+      "sha256": "F4256F69C9CD69524622354809602AA817FC64246B759ED33747C19F3A086371",
+      "size_bytes": 11192
+    },
+    {
+      "path": "reproducao/source_segment_counts.csv",
+      "sha256": "271F9E485BBE903D629B10FD04C5DEF10F6CA88D4CDAF7FC696FEC99184DEE53",
+      "size_bytes": 470
+    },
+    {
+      "path": "reproducao/tuning_internal.csv",
+      "sha256": "D71C41D8386C61A39E0BA4D640941E2705A29EABCE904F11080C991731D95F52",
+      "size_bytes": 19746
+    },
+    {
+      "path": "requirements.txt",
+      "sha256": "7E7B4C990605A5F7FE85702BF01BAE0A62800C1B9B6B73C5A882FA4D1EAB4F53",
+      "size_bytes": 29
+    },
+    {
+      "path": "resultados/audit_results.json",
+      "sha256": "C53DC5C12C09375B166324EFB6647F6EE06C2C57449CD9BB41AB7F231A2D70B6",
+      "size_bytes": 39086
+    },
+    {
+      "path": "resultados/AUDITORIA_MODELAGEM.md",
+      "sha256": "B0F4EA49FB302BD81DBE05BAE57648A299275EB01827C651B60C75B5FB5C2C44",
+      "size_bytes": 2820
+    },
+    {
+      "path": "resultados/best_hyperparameters.json",
+      "sha256": "AA352219357214A66BEF192F7674345A2D34A6AF1B7CB5555B9061474190D854",
+      "size_bytes": 1515
+    },
+    {
+      "path": "resultados/data_audit.json",
+      "sha256": "23674630F8147D8C127C38DFFCDC56EC9AE52F8C8C2CE988748E31AFC7123D50",
+      "size_bytes": 493
+    },
+    {
+      "path": "resultados/driver_model_results_original.json",
+      "sha256": "2AE726D0723509523C5D9F296CCAB1BCDA134D53C85A22A5AC38E089C6C8BE95",
+      "size_bytes": 662036
+    },
+    {
+      "path": "resultados/driver_model_results_sgs3698_full.json",
+      "sha256": "592E494D19F27309349B554473EAC8F07CB2C9ED150E4C90FEC4DB563DA4A7A3",
+      "size_bytes": 661530
+    },
+    {
+      "path": "resultados/environment.json",
+      "sha256": "917E9B037EC95F6D295BD24B8D05F443A8114166BAFF343CA134D4453A922319",
+      "size_bytes": 1532
+    },
+    {
+      "path": "resultados/expanding_window_counts.csv",
+      "sha256": "F6A8CD08BA99CA7F68696C8E035183DBB547259DC4C898D88B44BB7C3AA7F557",
+      "size_bytes": 3331
+    },
+    {
+      "path": "resultados/implementation_comparison.csv",
+      "sha256": "38BB9C3D96866F9C4BD72080CA06442865F745E435E71C54030F559F802C405C",
+      "size_bytes": 875
+    },
+    {
+      "path": "resultados/manifest_modelagem.json",
+      "sha256": "170F1AB493A189A38A3B8842AD17F0B2B6067681C6FC493DA79E6EF8DDC0F01F",
+      "size_bytes": 4347
+    },
+    {
+      "path": "resultados/metrics_all_candidates.csv",
+      "sha256": "33547696780471088DA0BE97908AC731703A87C9B4992CAE0FE5181837EAAC4E",
+      "size_bytes": 13729
+    },
+    {
+      "path": "resultados/metrics_by_segment.csv",
+      "sha256": "2B638F0BD13E6E5E4E2A4ADECA6D6E547B6A15175461A146D78923DBCA608AC2",
+      "size_bytes": 55337
+    },
+    {
+      "path": "resultados/model_results_original.json",
+      "sha256": "A6554AF9A26FC6FC37BE167DF39ECE6B1185164E607C6E59D87F1AFA23942575",
+      "size_bytes": 207508
+    },
+    {
+      "path": "resultados/operational_selection.csv",
+      "sha256": "5741FDBF570E5D793AE40E32DBDB8EF029E1304F65DA28E3F2B63C34B7424D6F",
+      "size_bytes": 413
+    },
+    {
+      "path": "resultados/original_results_reconciliation.csv",
+      "sha256": "66383ECE006EF9F617FE8AD5E2E84FFFD080B9E3042486CE159FED916E4105D1",
+      "size_bytes": 6735
+    },
+    {
+      "path": "resultados/predictions_all_candidates.csv",
+      "sha256": "A8132C7373F4F318456FF453DD59E34E9E134DA8F4842EF37E0BD86B5D177804",
+      "size_bytes": 411647
+    },
+    {
+      "path": "resultados/ridge_coefficients_by_window.csv",
+      "sha256": "65B865CDEDC36299A7901D1D37D61667AB8D4AFE56C17642616BF7A17966B380",
+      "size_bytes": 630539
+    },
+    {
+      "path": "resultados/ridge_stability_by_feature.csv",
+      "sha256": "C24360C9362766BE18809BB9DA2363FE796381C118E97D59246709E205DF2B56",
+      "size_bytes": 36889
+    },
+    {
+      "path": "resultados/ridge_stability_overview.csv",
+      "sha256": "E22F9FB4EA0FE9E16E7BA3ADD00F2A265F69E09BEF557DC04A8BE245203A8A0B",
+      "size_bytes": 801
+    },
+    {
+      "path": "resultados/ridge_window_metadata.csv",
+      "sha256": "0DFD69DF39A581756A9E1D142587E8B15D12BD2861A1686A9EA747392D76BE9B",
+      "size_bytes": 16507
+    },
+    {
+      "path": "resultados/sample_counts.csv",
+      "sha256": "8C7A40E8FE64481ACA6A2B3F3C46DD9D215803189BD4625E3AFF2A3EEE7F7651",
+      "size_bytes": 5937
+    },
+    {
+      "path": "resultados/seeds_used.csv",
+      "sha256": "F4256F69C9CD69524622354809602AA817FC64246B759ED33747C19F3A086371",
+      "size_bytes": 11192
+    },
+    {
+      "path": "resultados/source_segment_counts.csv",
+      "sha256": "271F9E485BBE903D629B10FD04C5DEF10F6CA88D4CDAF7FC696FEC99184DEE53",
+      "size_bytes": 470
+    },
+    {
+      "path": "resultados/tuning_internal.csv",
+      "sha256": "9237FF949B69401C35DF8CE1A5C73A0694724386F14986D54F5F690278CC94F2",
+      "size_bytes": 19737
+    }
+  ]
+}

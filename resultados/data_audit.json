@@ -1,0 +1,23 @@
+{
+  "xlsx_base_analitica_n": 621,
+  "xlsx_base_modelagem_n": 457,
+  "ml_source_n": 457,
+  "xlsx_vs_ml_source_mismatch_count": 0,
+  "xlsx_vs_ml_source_mismatches_first_20": [],
+  "target_abs_failures": 0,
+  "segments": [
+    "BIOCOMBUSTÍVEIS",
+    "CORPORATIVO / OUTROS NEGÓCIOS",
+    "DISTRIBUIÇÃO",
+    "E&P",
+    "GÁS & ENERGIA / G&EBC",
+    "INTERNACIONAL",
+    "REFINO / RTC"
+  ],
+  "dataset_n": {
+    "H1": 422,
+    "H2": 415,
+    "H3": 408,
+    "H4": 401
+  }
+}

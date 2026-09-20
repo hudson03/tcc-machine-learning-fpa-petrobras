@@ -1,0 +1,23 @@
+{
+  "generated_on": "2026-09-08",
+  "document_count": 82,
+  "period": "1T06–2T26",
+  "coverage_check": {
+    "expected": 82,
+    "observed": 82,
+    "missing": [],
+    "duplicates": 0
+  },
+  "catalog_api": "https://apicatalog.mziq.com/filemanager/company/25fdf098-34f5-4608-b7fa-17d60b2de47d/filter/categories/year/meta",
+  "category_internal_name": "central_de_resultados_demonstracoes_financeiras_em_rs",
+  "official_results_center": "https://www.investidorpetrobras.com.br/resultados-e-comunicados/central-de-resultados/",
+  "access_date": "08 set. 2026",
+  "local_source_workbook": {
+    "path": "outputs\\TCC_Migracao_Work_2026-08-27\\DRE_Petrobras_2006_2026_PIPELINE_RECONSTRUIDO_4T18.xlsx",
+    "sha256": "B836A541CB3628B17ECC3A05242A4F0A6DFDDF2951DBAB4CFB0853A34E453590"
+  },
+  "corpus_csv": {
+    "path": "work\\revision_orientador\\material_complementar\\corpus_documental_petrobras_1T06_2T26.csv",
+    "sha256": "366904DAD2066DA3D9B8BAD2D2D817509091B7258FDD39372B7327319E11861B"
+  }
+}

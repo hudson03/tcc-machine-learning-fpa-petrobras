@@ -1,0 +1,57 @@
+{
+  "generated_at_utc": "2026-09-20T21:57:36.607196+00:00",
+  "root": ".",
+  "command": "python codigo/run_audit.py",
+  "source_files": [
+    {
+      "path": "dados\\DRE_Petrobras_2006_2026_PIPELINE_RECONSTRUIDO_4T18.xlsx",
+      "sha256": "B836A541CB3628B17ECC3A05242A4F0A6DFDDF2951DBAB4CFB0853A34E453590",
+      "unchanged_after_run": true,
+      "size_bytes": 1668956
+    },
+    {
+      "path": "dados\\ml_source.json",
+      "sha256": "DD1EEEF69336F1D74CFEC0EDAE5E79AC71096C13E8E2CF5F9C7401DF5E1F2293",
+      "unchanged_after_run": true,
+      "size_bytes": 151350
+    },
+    {
+      "path": "resultados\\model_results_original.json",
+      "sha256": "A6554AF9A26FC6FC37BE167DF39ECE6B1185164E607C6E59D87F1AFA23942575",
+      "unchanged_after_run": true,
+      "size_bytes": 207508
+    },
+    {
+      "path": "resultados\\driver_model_results_sgs3698_full.json",
+      "sha256": "592E494D19F27309349B554473EAC8F07CB2C9ED150E4C90FEC4DB563DA4A7A3",
+      "unchanged_after_run": true,
+      "size_bytes": 661530
+    }
+  ],
+  "audit_script": {
+    "path": "codigo\\run_audit.py",
+    "sha256": "9781D17C8056066B79D2FEA8DBB29CE9C5FAE2040CA91E89D6658E5C5DA2215D"
+  },
+  "source_files_unchanged": true,
+  "outputs": [
+    "best_hyperparameters.json",
+    "checkpoint.json",
+    "data_audit.json",
+    "environment.json",
+    "expanding_window_counts.csv",
+    "implementation_comparison.csv",
+    "metrics_all_candidates.csv",
+    "metrics_by_segment.csv",
+    "operational_selection.csv",
+    "original_results_reconciliation.csv",
+    "predictions_all_candidates.csv",
+    "ridge_coefficients_by_window.csv",
+    "ridge_stability_by_feature.csv",
+    "ridge_stability_overview.csv",
+    "ridge_window_metadata.csv",
+    "sample_counts.csv",
+    "seeds_used.csv",
+    "source_segment_counts.csv",
+    "tuning_internal.csv"
+  ]
+}

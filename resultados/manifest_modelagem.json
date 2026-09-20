@@ -1,0 +1,119 @@
+{
+  "generated_at_utc": "2026-09-09T00:18:52.666270+00:00",
+  "root": ".",
+  "command": "python codigo/run_audit.py",
+  "source_files": [
+    {
+      "path": "outputs\\TCC_Migracao_Work_2026-08-27\\DRE_Petrobras_2006_2026_PIPELINE_RECONSTRUIDO_4T18.xlsx",
+      "sha256": "B836A541CB3628B17ECC3A05242A4F0A6DFDDF2951DBAB4CFB0853A34E453590",
+      "unchanged_after_run": true,
+      "size_bytes": 1668956
+    },
+    {
+      "path": "work\\tcc_design\\ml_source.json",
+      "sha256": "DD1EEEF69336F1D74CFEC0EDAE5E79AC71096C13E8E2CF5F9C7401DF5E1F2293",
+      "unchanged_after_run": true,
+      "size_bytes": 151350
+    },
+    {
+      "path": "work\\tcc_design\\train_models.py",
+      "sha256": "B640A055F6172DFDDA5AEA0716DE8790B92A9BC792480223756FB20833F25BB0",
+      "unchanged_after_run": true,
+      "size_bytes": 13920
+    },
+    {
+      "path": "work\\tcc_design\\model_results.json",
+      "sha256": "A6554AF9A26FC6FC37BE167DF39ECE6B1185164E607C6E59D87F1AFA23942575",
+      "unchanged_after_run": true,
+      "size_bytes": 207508
+    },
+    {
+      "path": "work\\external_drivers\\run_driver_models.py",
+      "sha256": "B4C83D96AD9A1457713D08EBD7B92C55ECD79FAA80F18DEF48F4026B5F7D9D35",
+      "unchanged_after_run": true,
+      "size_bytes": 15787
+    },
+    {
+      "path": "work\\external_drivers\\driver_model_results.json",
+      "sha256": "2AE726D0723509523C5D9F296CCAB1BCDA134D53C85A22A5AC38E089C6C8BE95",
+      "unchanged_after_run": true,
+      "size_bytes": 662036
+    },
+    {
+      "path": "work\\external_drivers\\eia_brent_monthly_rows.json",
+      "sha256": "391EBCB52CE25889D3F658A807BF40B22A6D4C42706BED2894F837AA5382B6C9",
+      "unchanged_after_run": true,
+      "size_bytes": 6355
+    },
+    {
+      "path": "work\\external_drivers\\bcb_sgs3698_page1_rows.json",
+      "sha256": "EB63CCA61741F53FA41E6DE17D0FBDF6ECBC554995CD6F49B0A43CE13538CAB3",
+      "unchanged_after_run": true,
+      "size_bytes": 11062
+    },
+    {
+      "path": "work\\external_drivers\\bcb_sgs3698_page2_rows.json",
+      "sha256": "FA5A363E047660CFF4A39AA17A98D916620995440E68E2512DAD7BD4B7ED74C8",
+      "unchanged_after_run": true,
+      "size_bytes": 3610
+    },
+    {
+      "path": "work\\external_drivers\\bcb_usdbrl_2006_2015.json",
+      "sha256": "A25906FF5C22B0B8245DF49E13C399459B693752EA57BFBFE887F5355F9F3B93",
+      "unchanged_after_run": true,
+      "size_bytes": 97969
+    },
+    {
+      "path": "work\\external_drivers\\bcb_usdbrl_2016_2025.json",
+      "sha256": "1C94B93EBEA78A2FE83BB0096DC3EAB31C7F0F2E68591EC44B1440A200EF2D0B",
+      "unchanged_after_run": true,
+      "size_bytes": 97891
+    }
+  ],
+  "audit_script": {
+    "path": "work\\revision_orientador\\modelagem\\run_audit.py",
+    "sha256": "32A04A317E9A4107C84660F9DE91820942C2D4571BFAB09223BD9FBF3679F76F"
+  },
+  "source_files_unchanged": true,
+  "outputs": [
+    "AUDITORIA_BCB_SGS3698.md",
+    "AUDITORIA_MODELAGEM.md",
+    "README.md",
+    "audit_results.json",
+    "bcb_model_metric_comparison.csv",
+    "bcb_quarterly_comparison.csv",
+    "bcb_sgs3698_2006_2026H1.json",
+    "bcb_sgs3698_audit.json",
+    "best_hyperparameters.json",
+    "checkpoint.json",
+    "data_audit.json",
+    "driver_model_results_sgs3698_full.json",
+    "environment.json",
+    "expanding_window_counts.csv",
+    "finalize_audit_outputs.py",
+    "implementation_comparison.csv",
+    "manifest.json",
+    "metrics_all_candidates.csv",
+    "metrics_by_segment.csv",
+    "operational_selection.csv",
+    "original_results_reconciliation.csv",
+    "predictions_all_candidates.csv",
+    "ridge_coefficients_by_window.csv",
+    "ridge_stability_by_feature.csv",
+    "ridge_stability_overview.csv",
+    "ridge_window_metadata.csv",
+    "run_audit.py",
+    "run_driver_models_sgs3698_full.py",
+    "sample_counts.csv",
+    "seeds_used.csv",
+    "source_segment_counts.csv",
+    "summarize_bcb_audit.py",
+    "tuning_internal.csv"
+  ],
+  "finalized_at_utc": "2026-09-09T00:25:41.467798+00:00",
+  "postprocess_script": {
+    "path": "work\\revision_orientador\\modelagem\\finalize_audit_outputs.py",
+    "sha256": "13619530C86FD1780CDE4BC2AA0D63BA751384087801AB400F8596A07594050F",
+    "purpose": "corrigir apenas o rótulo da regra de seleção quando não houve empate"
+  }
+}

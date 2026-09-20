@@ -1,0 +1,257 @@
+﻿Etapa,Horizonte,Target_QID,Modelo,Config_Index,Seed
+Tuning,H1,,Random Forest ampliada,0,10100
+Tuning,H1,,Random Forest ampliada,1,10101
+Tuning,H1,,Gradient Boosting,0,10100
+Tuning,H1,,Gradient Boosting,1,10101
+Tuning,H2,,Random Forest ampliada,0,10200
+Tuning,H2,,Random Forest ampliada,1,10201
+Tuning,H2,,Gradient Boosting,0,10200
+Tuning,H2,,Gradient Boosting,1,10201
+Tuning,H3,,Random Forest ampliada,0,10300
+Tuning,H3,,Random Forest ampliada,1,10301
+Tuning,H3,,Gradient Boosting,0,10300
+Tuning,H3,,Gradient Boosting,1,10301
+Tuning,H4,,Random Forest ampliada,0,10400
+Tuning,H4,,Random Forest ampliada,1,10401
+Tuning,H4,,Gradient Boosting,0,10400
+Tuning,H4,,Gradient Boosting,1,10401
+Validação,H1,53,Random Forest ampliada,,21531
+Validação,H1,53,Gradient Boosting,,21532
+Validação,H1,54,Random Forest ampliada,,21541
+Validação,H1,54,Gradient Boosting,,21542
+Validação,H1,55,Random Forest ampliada,,21551
+Validação,H1,55,Gradient Boosting,,21552
+Validação,H1,56,Random Forest ampliada,,21561
+Validação,H1,56,Gradient Boosting,,21562
+Validação,H1,57,Random Forest ampliada,,21571
+Validação,H1,57,Gradient Boosting,,21572
+Validação,H1,58,Random Forest ampliada,,21581
+Validação,H1,58,Gradient Boosting,,21582
+Validação,H1,59,Random Forest ampliada,,21591
+Validação,H1,59,Gradient Boosting,,21592
+Validação,H1,60,Random Forest ampliada,,21601
+Validação,H1,60,Gradient Boosting,,21602
+Validação,H1,61,Random Forest ampliada,,21611
+Validação,H1,61,Gradient Boosting,,21612
+Validação,H1,62,Random Forest ampliada,,21621
+Validação,H1,62,Gradient Boosting,,21622
+Validação,H1,63,Random Forest ampliada,,21631
+Validação,H1,63,Gradient Boosting,,21632
+Validação,H1,64,Random Forest ampliada,,21641
+Validação,H1,64,Gradient Boosting,,21642
+Validação,H1,65,Random Forest ampliada,,21651
+Validação,H1,65,Gradient Boosting,,21652
+Validação,H1,66,Random Forest ampliada,,21661
+Validação,H1,66,Gradient Boosting,,21662
+Validação,H1,67,Random Forest ampliada,,21671
+Validação,H1,67,Gradient Boosting,,21672
+Validação,H1,68,Random Forest ampliada,,21681
+Validação,H1,68,Gradient Boosting,,21682
+Teste,H1,69,Random Forest ampliada,,21691
+Teste,H1,69,Gradient Boosting,,21692
+Teste,H1,70,Random Forest ampliada,,21701
+Teste,H1,70,Gradient Boosting,,21702
+Teste,H1,71,Random Forest ampliada,,21711
+Teste,H1,71,Gradient Boosting,,21712
+Teste,H1,72,Random Forest ampliada,,21721
+Teste,H1,72,Gradient Boosting,,21722
+Teste,H1,73,Random Forest ampliada,,21731
+Teste,H1,73,Gradient Boosting,,21732
+Teste,H1,74,Random Forest ampliada,,21741
+Teste,H1,74,Gradient Boosting,,21742
+Teste,H1,75,Random Forest ampliada,,21751
+Teste,H1,75,Gradient Boosting,,21752
+Teste,H1,76,Random Forest ampliada,,21761
+Teste,H1,76,Gradient Boosting,,21762
+Teste,H1,77,Random Forest ampliada,,21771
+Teste,H1,77,Gradient Boosting,,21772
+Teste,H1,78,Random Forest ampliada,,21781
+Teste,H1,78,Gradient Boosting,,21782
+Teste,H1,79,Random Forest ampliada,,21791
+Teste,H1,79,Gradient Boosting,,21792
+Teste,H1,80,Random Forest ampliada,,21801
+Teste,H1,80,Gradient Boosting,,21802
+Teste,H1,81,Random Forest ampliada,,21811
+Teste,H1,81,Gradient Boosting,,21812
+Teste,H1,82,Random Forest ampliada,,21821
+Teste,H1,82,Gradient Boosting,,21822
+Validação,H2,53,Random Forest ampliada,,22531
+Validação,H2,53,Gradient Boosting,,22532
+Validação,H2,54,Random Forest ampliada,,22541
+Validação,H2,54,Gradient Boosting,,22542
+Validação,H2,55,Random Forest ampliada,,22551
+Validação,H2,55,Gradient Boosting,,22552
+Validação,H2,56,Random Forest ampliada,,22561
+Validação,H2,56,Gradient Boosting,,22562
+Validação,H2,57,Random Forest ampliada,,22571
+Validação,H2,57,Gradient Boosting,,22572
+Validação,H2,58,Random Forest ampliada,,22581
+Validação,H2,58,Gradient Boosting,,22582
+Validação,H2,59,Random Forest ampliada,,22591
+Validação,H2,59,Gradient Boosting,,22592
+Validação,H2,60,Random Forest ampliada,,22601
+Validação,H2,60,Gradient Boosting,,22602
+Validação,H2,61,Random Forest ampliada,,22611
+Validação,H2,61,Gradient Boosting,,22612
+Validação,H2,62,Random Forest ampliada,,22621
+Validação,H2,62,Gradient Boosting,,22622
+Validação,H2,63,Random Forest ampliada,,22631
+Validação,H2,63,Gradient Boosting,,22632
+Validação,H2,64,Random Forest ampliada,,22641
+Validação,H2,64,Gradient Boosting,,22642
+Validação,H2,65,Random Forest ampliada,,22651
+Validação,H2,65,Gradient Boosting,,22652
+Validação,H2,66,Random Forest ampliada,,22661
+Validação,H2,66,Gradient Boosting,,22662
+Validação,H2,67,Random Forest ampliada,,22671
+Validação,H2,67,Gradient Boosting,,22672
+Validação,H2,68,Random Forest ampliada,,22681
+Validação,H2,68,Gradient Boosting,,22682
+Teste,H2,69,Random Forest ampliada,,22691
+Teste,H2,69,Gradient Boosting,,22692
+Teste,H2,70,Random Forest ampliada,,22701
+Teste,H2,70,Gradient Boosting,,22702
+Teste,H2,71,Random Forest ampliada,,22711
+Teste,H2,71,Gradient Boosting,,22712
+Teste,H2,72,Random Forest ampliada,,22721
+Teste,H2,72,Gradient Boosting,,22722
+Teste,H2,73,Random Forest ampliada,,22731
+Teste,H2,73,Gradient Boosting,,22732
+Teste,H2,74,Random Forest ampliada,,22741
+Teste,H2,74,Gradient Boosting,,22742
+Teste,H2,75,Random Forest ampliada,,22751
+Teste,H2,75,Gradient Boosting,,22752
+Teste,H2,76,Random Forest ampliada,,22761
+Teste,H2,76,Gradient Boosting,,22762
+Teste,H2,77,Random Forest ampliada,,22771
+Teste,H2,77,Gradient Boosting,,22772
+Teste,H2,78,Random Forest ampliada,,22781
+Teste,H2,78,Gradient Boosting,,22782
+Teste,H2,79,Random Forest ampliada,,22791
+Teste,H2,79,Gradient Boosting,,22792
+Teste,H2,80,Random Forest ampliada,,22801
+Teste,H2,80,Gradient Boosting,,22802
+Teste,H2,81,Random Forest ampliada,,22811
+Teste,H2,81,Gradient Boosting,,22812
+Teste,H2,82,Random Forest ampliada,,22821
+Teste,H2,82,Gradient Boosting,,22822
+Validação,H3,53,Random Forest ampliada,,23531
+Validação,H3,53,Gradient Boosting,,23532
+Validação,H3,54,Random Forest ampliada,,23541
+Validação,H3,54,Gradient Boosting,,23542
+Validação,H3,55,Random Forest ampliada,,23551
+Validação,H3,55,Gradient Boosting,,23552
+Validação,H3,56,Random Forest ampliada,,23561
+Validação,H3,56,Gradient Boosting,,23562
+Validação,H3,57,Random Forest ampliada,,23571
+Validação,H3,57,Gradient Boosting,,23572
+Validação,H3,58,Random Forest ampliada,,23581
+Validação,H3,58,Gradient Boosting,,23582
+Validação,H3,59,Random Forest ampliada,,23591
+Validação,H3,59,Gradient Boosting,,23592
+Validação,H3,60,Random Forest ampliada,,23601
+Validação,H3,60,Gradient Boosting,,23602
+Validação,H3,61,Random Forest ampliada,,23611
+Validação,H3,61,Gradient Boosting,,23612
+Validação,H3,62,Random Forest ampliada,,23621
+Validação,H3,62,Gradient Boosting,,23622
+Validação,H3,63,Random Forest ampliada,,23631
+Validação,H3,63,Gradient Boosting,,23632
+Validação,H3,64,Random Forest ampliada,,23641
+Validação,H3,64,Gradient Boosting,,23642
+Validação,H3,65,Random Forest ampliada,,23651
+Validação,H3,65,Gradient Boosting,,23652
+Validação,H3,66,Random Forest ampliada,,23661
+Validação,H3,66,Gradient Boosting,,23662
+Validação,H3,67,Random Forest ampliada,,23671
+Validação,H3,67,Gradient Boosting,,23672
+Validação,H3,68,Random Forest ampliada,,23681
+Validação,H3,68,Gradient Boosting,,23682
+Teste,H3,69,Random Forest ampliada,,23691
+Teste,H3,69,Gradient Boosting,,23692
+Teste,H3,70,Random Forest ampliada,,23701
+Teste,H3,70,Gradient Boosting,,23702
+Teste,H3,71,Random Forest ampliada,,23711
+Teste,H3,71,Gradient Boosting,,23712
+Teste,H3,72,Random Forest ampliada,,23721
+Teste,H3,72,Gradient Boosting,,23722
+Teste,H3,73,Random Forest ampliada,,23731
+Teste,H3,73,Gradient Boosting,,23732
+Teste,H3,74,Random Forest ampliada,,23741
+Teste,H3,74,Gradient Boosting,,23742
+Teste,H3,75,Random Forest ampliada,,23751
+Teste,H3,75,Gradient Boosting,,23752
+Teste,H3,76,Random Forest ampliada,,23761
+Teste,H3,76,Gradient Boosting,,23762
+Teste,H3,77,Random Forest ampliada,,23771
+Teste,H3,77,Gradient Boosting,,23772
+Teste,H3,78,Random Forest ampliada,,23781
+Teste,H3,78,Gradient Boosting,,23782
+Teste,H3,79,Random Forest ampliada,,23791
+Teste,H3,79,Gradient Boosting,,23792
+Teste,H3,80,Random Forest ampliada,,23801
+Teste,H3,80,Gradient Boosting,,23802
+Teste,H3,81,Random Forest ampliada,,23811
+Teste,H3,81,Gradient Boosting,,23812
+Teste,H3,82,Random Forest ampliada,,23821
+Teste,H3,82,Gradient Boosting,,23822
+Validação,H4,53,Random Forest ampliada,,24531
+Validação,H4,53,Gradient Boosting,,24532
+Validação,H4,54,Random Forest ampliada,,24541
+Validação,H4,54,Gradient Boosting,,24542
+Validação,H4,55,Random Forest ampliada,,24551
+Validação,H4,55,Gradient Boosting,,24552
+Validação,H4,56,Random Forest ampliada,,24561
+Validação,H4,56,Gradient Boosting,,24562
+Validação,H4,57,Random Forest ampliada,,24571
+Validação,H4,57,Gradient Boosting,,24572
+Validação,H4,58,Random Forest ampliada,,24581
+Validação,H4,58,Gradient Boosting,,24582
+Validação,H4,59,Random Forest ampliada,,24591
+Validação,H4,59,Gradient Boosting,,24592
+Validação,H4,60,Random Forest ampliada,,24601
+Validação,H4,60,Gradient Boosting,,24602
+Validação,H4,61,Random Forest ampliada,,24611
+Validação,H4,61,Gradient Boosting,,24612
+Validação,H4,62,Random Forest ampliada,,24621
+Validação,H4,62,Gradient Boosting,,24622
+Validação,H4,63,Random Forest ampliada,,24631
+Validação,H4,63,Gradient Boosting,,24632
+Validação,H4,64,Random Forest ampliada,,24641
+Validação,H4,64,Gradient Boosting,,24642
+Validação,H4,65,Random Forest ampliada,,24651
+Validação,H4,65,Gradient Boosting,,24652
+Validação,H4,66,Random Forest ampliada,,24661
+Validação,H4,66,Gradient Boosting,,24662
+Validação,H4,67,Random Forest ampliada,,24671
+Validação,H4,67,Gradient Boosting,,24672
+Validação,H4,68,Random Forest ampliada,,24681
+Validação,H4,68,Gradient Boosting,,24682
+Teste,H4,69,Random Forest ampliada,,24691
+Teste,H4,69,Gradient Boosting,,24692
+Teste,H4,70,Random Forest ampliada,,24701
+Teste,H4,70,Gradient Boosting,,24702
+Teste,H4,71,Random Forest ampliada,,24711
+Teste,H4,71,Gradient Boosting,,24712
+Teste,H4,72,Random Forest ampliada,,24721
+Teste,H4,72,Gradient Boosting,,24722
+Teste,H4,73,Random Forest ampliada,,24731
+Teste,H4,73,Gradient Boosting,,24732
+Teste,H4,74,Random Forest ampliada,,24741
+Teste,H4,74,Gradient Boosting,,24742
+Teste,H4,75,Random Forest ampliada,,24751
+Teste,H4,75,Gradient Boosting,,24752
+Teste,H4,76,Random Forest ampliada,,24761
+Teste,H4,76,Gradient Boosting,,24762
+Teste,H4,77,Random Forest ampliada,,24771
+Teste,H4,77,Gradient Boosting,,24772
+Teste,H4,78,Random Forest ampliada,,24781
+Teste,H4,78,Gradient Boosting,,24782
+Teste,H4,79,Random Forest ampliada,,24791
+Teste,H4,79,Gradient Boosting,,24792
+Teste,H4,80,Random Forest ampliada,,24801
+Teste,H4,80,Gradient Boosting,,24802
+Teste,H4,81,Random Forest ampliada,,24811
+Teste,H4,81,Gradient Boosting,,24812
+Teste,H4,82,Random Forest ampliada,,24821
+Teste,H4,82,Gradient Boosting,,24822

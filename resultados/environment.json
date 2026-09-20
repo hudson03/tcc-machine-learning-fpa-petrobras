@@ -1,0 +1,35 @@
+{
+  "run_started_utc": "2026-09-08T23:15:57.442061+00:00",
+  "python_version": "3.12.14 (main, Aug 25 2026, 14:01:42) [MSC v.1944 64 bit (AMD64)]",
+  "python_executable": "python",
+  "numpy_version": "2.3.5",
+  "openpyxl_version": "3.1.5",
+  "scikit_learn_available": false,
+  "scikit_learn_version": null,
+  "scikit_learn_import_error": "ModuleNotFoundError: No module named 'sklearn'",
+  "platform": "Windows-11-10.0.26200-SP0",
+  "processor": "Intel64 Family 6 Model 186 Stepping 2, GenuineIntel",
+  "cpu_count": 12,
+  "tie_tolerance": 1e-12,
+  "tie_rule": "Em empate dentro da tolerância, preservar o modelo selecionado em H(h-1); se indisponível, usar MODEL_ORDER.",
+  "model_order": [
+    "Baseline Último",
+    "Baseline Sazonal",
+    "Ridge Contábil",
+    "Random Forest ampliada",
+    "Gradient Boosting"
+  ],
+  "seeds": {
+    "rf_tuning": "10000 + 100*h + indice_estrutura; a mesma floresta é avaliada em 35/100/300/500 árvores",
+    "rf_expanding": "20000 + 1000*h + 10*target_qid + 1",
+    "gb_tuning": "10000 + 100*h + indice_configuracao",
+    "gb_expanding": "20000 + 1000*h + 10*target_qid + 2",
+    "ridge": "determinística; solução fechada"
+  },
+  "stopping": {
+    "ridge": "solução fechada np.linalg.solve; sem parada iterativa",
+    "tree": "max_depth, n<2*min_leaf, variância<1e-12, ausência de split ou ganho<=1e-9",
+    "random_forest": "número fixo de árvores; sem early stopping",
+    "gradient_boosting": "60 ou 80 árvores fixas; sem early stopping"
+  }
+}

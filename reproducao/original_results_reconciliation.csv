@@ -1,0 +1,57 @@
+﻿Fonte,Horizonte,Bloco,Modelo_Original,Modelo_Auditoria,WMAPE_Original,WMAPE_Auditoria,Diferenca,Confere_1e10
+model_results.json,H1,Validação,Ridge,Ridge Contábil,0.16188210293448158,0.16188210293448158,0.0,True
+model_results.json,H1,Validação,Random Forest,Random Forest grade original,0.22927620521915762,0.22927620521915762,0.0,True
+model_results.json,H1,Validação,Gradient Boosting,Gradient Boosting,0.2306281178295823,0.2306281178295823,0.0,True
+model_results.json,H1,Validação,Baseline Último,Baseline Último,0.14016282693597382,0.14016282693597382,0.0,True
+model_results.json,H1,Validação,Baseline Sazonal,Baseline Sazonal,0.27697739555801015,0.27697739555801015,0.0,True
+model_results.json,H1,Teste,Ridge,Ridge Contábil,0.11653034711805549,0.11653034711805549,0.0,True
+model_results.json,H1,Teste,Random Forest,Random Forest grade original,0.10155103587327335,0.10155103587327335,0.0,True
+model_results.json,H1,Teste,Gradient Boosting,Gradient Boosting,0.12348774092128847,0.12348774092128847,0.0,True
+model_results.json,H1,Teste,Baseline Último,Baseline Último,0.10623515124927528,0.10623515124927528,0.0,True
+model_results.json,H1,Teste,Baseline Sazonal,Baseline Sazonal,0.14061090262125414,0.14061090262125414,0.0,True
+model_results.json,H2,Validação,Ridge,Ridge Contábil,0.23579746805078458,0.23579746805078458,0.0,True
+model_results.json,H2,Validação,Random Forest,Random Forest grade original,0.26830002851067886,0.26830002851067886,0.0,True
+model_results.json,H2,Validação,Gradient Boosting,Gradient Boosting,0.2765994051242453,0.2765994051242453,0.0,True
+model_results.json,H2,Validação,Baseline Último,Baseline Último,0.20499526608544716,0.20499526608544716,0.0,True
+model_results.json,H2,Validação,Baseline Sazonal,Baseline Sazonal,0.27697739555801015,0.27697739555801015,0.0,True
+model_results.json,H2,Teste,Ridge,Ridge Contábil,0.12853637622963637,0.12853637622963637,0.0,True
+model_results.json,H2,Teste,Random Forest,Random Forest grade original,0.12830170161845966,0.12830170161845966,0.0,True
+model_results.json,H2,Teste,Gradient Boosting,Gradient Boosting,0.15521706968176338,0.15521706968176338,0.0,True
+model_results.json,H2,Teste,Baseline Último,Baseline Último,0.11972364040631853,0.11972364040631853,0.0,True
+model_results.json,H2,Teste,Baseline Sazonal,Baseline Sazonal,0.14061090262125414,0.14061090262125414,0.0,True
+model_results.json,H3,Validação,Ridge,Ridge Contábil,0.26645791431292537,0.26645791431292537,0.0,True
+model_results.json,H3,Validação,Random Forest,Random Forest grade original,0.2985445793777063,0.2985445793777063,0.0,True
+model_results.json,H3,Validação,Gradient Boosting,Gradient Boosting,0.29692971124765993,0.29692971124765993,0.0,True
+model_results.json,H3,Validação,Baseline Último,Baseline Último,0.25140833957947056,0.25140833957947056,0.0,True
+model_results.json,H3,Validação,Baseline Sazonal,Baseline Sazonal,0.27697739555801015,0.27697739555801015,0.0,True
+model_results.json,H3,Teste,Ridge,Ridge Contábil,0.15190050915563266,0.15190050915563266,0.0,True
+model_results.json,H3,Teste,Random Forest,Random Forest grade original,0.12054782551094996,0.12054782551094996,0.0,True
+model_results.json,H3,Teste,Gradient Boosting,Gradient Boosting,0.11876125152088823,0.11876125152088823,0.0,True
+model_results.json,H3,Teste,Baseline Último,Baseline Último,0.11640576922445992,0.11640576922445992,0.0,True
+model_results.json,H3,Teste,Baseline Sazonal,Baseline Sazonal,0.14061090262125414,0.14061090262125414,0.0,True
+model_results.json,H4,Validação,Ridge,Ridge Contábil,0.30084922910314643,0.30084922910314643,0.0,True
+model_results.json,H4,Validação,Random Forest,Random Forest grade original,0.30982598384583737,0.30982598384583737,0.0,True
+model_results.json,H4,Validação,Gradient Boosting,Gradient Boosting,0.30955183809624526,0.30955183809624526,0.0,True
+model_results.json,H4,Validação,Baseline Último,Baseline Último,0.27697739555801015,0.27697739555801015,0.0,True
+model_results.json,H4,Validação,Baseline Sazonal,Baseline Sazonal,0.27697739555801015,0.27697739555801015,0.0,True
+model_results.json,H4,Teste,Ridge,Ridge Contábil,0.1670367387200117,0.1670367387200117,0.0,True
+model_results.json,H4,Teste,Random Forest,Random Forest grade original,0.1524954614031364,0.1524954614031364,0.0,True
+model_results.json,H4,Teste,Gradient Boosting,Gradient Boosting,0.14228661939912227,0.14228661939912227,0.0,True
+model_results.json,H4,Teste,Baseline Último,Baseline Último,0.14061090262125414,0.14061090262125414,0.0,True
+model_results.json,H4,Teste,Baseline Sazonal,Baseline Sazonal,0.14061090262125414,0.14061090262125414,0.0,True
+driver_model_results.json,H1,Validação,Ridge Contábil,Ridge Contábil,0.16188210293448158,0.16188210293448158,0.0,True
+driver_model_results.json,H1,Teste,Ridge Contábil,Ridge Contábil,0.11653034711805549,0.11653034711805549,0.0,True
+driver_model_results.json,H2,Validação,Ridge Contábil,Ridge Contábil,0.23579746805078458,0.23579746805078458,0.0,True
+driver_model_results.json,H2,Teste,Ridge Contábil,Ridge Contábil,0.12853637622963637,0.12853637622963637,0.0,True
+driver_model_results.json,H3,Validação,Ridge Contábil,Ridge Contábil,0.26645791431292537,0.26645791431292537,0.0,True
+driver_model_results.json,H3,Teste,Ridge Contábil,Ridge Contábil,0.15190050915563266,0.15190050915563266,0.0,True
+driver_model_results.json,H4,Validação,Ridge Contábil,Ridge Contábil,0.30084922910314643,0.30084922910314643,0.0,True
+driver_model_results.json,H4,Teste,Ridge Contábil,Ridge Contábil,0.1670367387200117,0.1670367387200117,0.0,True
+driver_model_results.json,H1,Validação,Ridge + Brent e Câmbio,Ridge + Brent e Câmbio,0.17859117408309833,0.17859117408309833,0.0,True
+driver_model_results.json,H1,Teste,Ridge + Brent e Câmbio,Ridge + Brent e Câmbio,0.10813104560233573,0.10813104560233573,0.0,True
+driver_model_results.json,H2,Validação,Ridge + Brent e Câmbio,Ridge + Brent e Câmbio,0.2525843124549528,0.2525843124549528,0.0,True
+driver_model_results.json,H2,Teste,Ridge + Brent e Câmbio,Ridge + Brent e Câmbio,0.1235376175563009,0.1235376175563009,0.0,True
+driver_model_results.json,H3,Validação,Ridge + Brent e Câmbio,Ridge + Brent e Câmbio,0.27206623358101806,0.27206623358101806,0.0,True
+driver_model_results.json,H3,Teste,Ridge + Brent e Câmbio,Ridge + Brent e Câmbio,0.13900458184448247,0.13900458184448247,0.0,True
+driver_model_results.json,H4,Validação,Ridge + Brent e Câmbio,Ridge + Brent e Câmbio,0.2911168843995022,0.2911168843995022,0.0,True
+driver_model_results.json,H4,Teste,Ridge + Brent e Câmbio,Ridge + Brent e Câmbio,0.1737936084544728,0.1737936084544728,0.0,True

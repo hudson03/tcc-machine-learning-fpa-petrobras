@@ -1,0 +1,78 @@
+{
+  "H1": {
+    "Ridge Contábil": {
+      "alpha": 0.1
+    },
+    "Ridge + Brent e Câmbio": {
+      "alpha": 10.0
+    },
+    "Random Forest ampliada": {
+      "max_depth": 7,
+      "min_leaf": 3,
+      "n_trees": 100
+    },
+    "Gradient Boosting": {
+      "learning_rate": 0.05,
+      "max_depth": 2,
+      "min_leaf": 5,
+      "n_estimators": 60
+    }
+  },
+  "H2": {
+    "Ridge Contábil": {
+      "alpha": 0.1
+    },
+    "Ridge + Brent e Câmbio": {
+      "alpha": 10.0
+    },
+    "Random Forest ampliada": {
+      "max_depth": 7,
+      "min_leaf": 3,
+      "n_trees": 500
+    },
+    "Gradient Boosting": {
+      "learning_rate": 0.03,
+      "max_depth": 3,
+      "min_leaf": 4,
+      "n_estimators": 80
+    }
+  },
+  "H3": {
+    "Ridge Contábil": {
+      "alpha": 0.1
+    },
+    "Ridge + Brent e Câmbio": {
+      "alpha": 10.0
+    },
+    "Random Forest ampliada": {
+      "max_depth": 7,
+      "min_leaf": 3,
+      "n_trees": 35
+    },
+    "Gradient Boosting": {
+      "learning_rate": 0.05,
+      "max_depth": 2,
+      "min_leaf": 5,
+      "n_estimators": 60
+    }
+  },
+  "H4": {
+    "Ridge Contábil": {
+      "alpha": 0.1
+    },
+    "Ridge + Brent e Câmbio": {
+      "alpha": 100.0
+    },
+    "Random Forest ampliada": {
+      "max_depth": 7,
+      "min_leaf": 3,
+      "n_trees": 100
+    },
+    "Gradient Boosting": {
+      "learning_rate": 0.05,
+      "max_depth": 2,
+      "min_leaf": 5,
+      "n_estimators": 60
+    }
+  }
+}

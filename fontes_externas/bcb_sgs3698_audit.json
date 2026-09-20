@@ -1,0 +1,33 @@
+{
+  "executed_on": "2026-09-08",
+  "official_source": {
+    "series": "BCB SGS 3698 — taxa de câmbio livre, dólar americano (venda), média de período mensal",
+    "url_2006_2015": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.3698/dados?formato=json&dataInicial=01/01/2006&dataFinal=31/12/2015",
+    "url_2016_2026H1": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.3698/dados?formato=json&dataInicial=01/01/2016&dataFinal=30/06/2026",
+    "monthly_observations": 246,
+    "first": {
+      "data": "01/01/2006",
+      "valor": "2.2739"
+    },
+    "last": {
+      "data": "01/06/2026",
+      "valor": "5.1276"
+    },
+    "sha256": "CB3D702845E6995C9EDDCC71137C0F351D091028532AB6AD283B3D5567D42B3B"
+  },
+  "quarterly_comparison": {
+    "quarters": 82,
+    "changed_above_1e_9": 43,
+    "max_absolute_difference_brl_per_usd": 3.6831357048683344e-05
+  },
+  "model_comparison": {
+    "metric_rows": 32,
+    "max_absolute_wmape_difference": 8.925913720370104e-07,
+    "all_wmape_round_to_same_0_1_percentage_point": true,
+    "conclusion": "A substituição da média reconstruída da série diária pela SGS 3698 mensal integral não alterou nenhum WMAPE apresentado com uma casa decimal em pontos percentuais."
+  },
+  "input_hashes": {
+    "original_driver_results": "2AE726D0723509523C5D9F296CCAB1BCDA134D53C85A22A5AC38E089C6C8BE95",
+    "audited_driver_results": "592E494D19F27309349B554473EAC8F07CB2C9ED150E4C90FEC4DB563DA4A7A3"
+  }
+}

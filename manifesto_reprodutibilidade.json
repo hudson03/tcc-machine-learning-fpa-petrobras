@@ -1,9 +1,9 @@
 {
   "title": "Material complementar do TCC de Hudson Henrique Alves da Silva",
   "repository": "https://github.com/hudson03/tcc-machine-learning-fpa-petrobras",
-  "generated_at_utc": "2026-09-20T23:25:02.079598+00:00",
-  "file_count_excluding_manifest": 70,
-  "total_size_bytes_excluding_manifest": 6256259,
+  "generated_at_utc": "2026-09-20T23:55:36.036139+00:00",
+  "file_count_excluding_manifest": 76,
+  "total_size_bytes_excluding_manifest": 6257232,
   "reproducibility_status": "PASS",
   "files": [
     {
@@ -20,6 +20,11 @@
       "path": "codigo/finalize_audit_outputs.py",
       "sha256": "6DF221D4D9C7BC74CBD5A5642BA6D10317BD7436FF29BB2B09A66AA1773EEEE9",
       "size_bytes": 2604
+    },
+    {
+      "path": "codigo/README.md",
+      "sha256": "DA4EA6981B7BB7F6FB74C0BEA4CC45572F7BAD78F7CD43062BCE4392C497A8FB",
+      "size_bytes": 154
     },
     {
       "path": "codigo/run_audit.py",
@@ -57,6 +62,11 @@
       "size_bytes": 1019
     },
     {
+      "path": "corpus/README.md",
+      "sha256": "543AFC0A672C4D6F461898918FCAF7E5810DE15D7B1246870CD749C9D165B076",
+      "size_bytes": 145
+    },
+    {
       "path": "dados/DRE_Petrobras_2006_2026_PIPELINE_RECONSTRUIDO_4T18.xlsx",
       "sha256": "B836A541CB3628B17ECC3A05242A4F0A6DFDDF2951DBAB4CFB0853A34E453590",
       "size_bytes": 1668956
@@ -65,6 +75,11 @@
       "path": "dados/ml_source.json",
       "sha256": "DD1EEEF69336F1D74CFEC0EDAE5E79AC71096C13E8E2CF5F9C7401DF5E1F2293",
       "size_bytes": 151350
+    },
+    {
+      "path": "dados/README.md",
+      "sha256": "FAF17BFA201CF1B7196F593751584DA953331AD24FAE75A7180B73C014997147",
+      "size_bytes": 177
     },
     {
       "path": "fontes_externas/AUDITORIA_BCB_SGS3698.md",
@@ -115,6 +130,11 @@
       "path": "fontes_externas/originais/eia_brent_monthly_rows.json",
       "sha256": "391EBCB52CE25889D3F658A807BF40B22A6D4C42706BED2894F837AA5382B6C9",
       "size_bytes": 6355
+    },
+    {
+      "path": "fontes_externas/README.md",
+      "sha256": "4ED4AE489270BA805BF72817A35D39BFC6F80A7C63F9BA927D734B465CDFB4ED",
+      "size_bytes": 190
     },
     {
       "path": "README.md",
@@ -190,6 +210,11 @@
       "path": "reproducao/predictions_all_candidates.csv",
       "sha256": "55F0B5D1CBCEC5A2FAA5DF1A602B76DD07F0530F896A22D8443A71F4FBFD2332",
       "size_bytes": 411624
+    },
+    {
+      "path": "reproducao/README.md",
+      "sha256": "2E7068BE75466867BF7E5C934287C6F07952E6E406546B623D2CD2030104720A",
+      "size_bytes": 162
     },
     {
       "path": "reproducao/ridge_coefficients_by_window.csv",
@@ -315,6 +340,11 @@
       "path": "resultados/predictions_all_candidates.csv",
       "sha256": "A8132C7373F4F318456FF453DD59E34E9E134DA8F4842EF37E0BD86B5D177804",
       "size_bytes": 411647
+    },
+    {
+      "path": "resultados/README.md",
+      "sha256": "97188B684F54873FB0F9C6BB7E74AE648C7F953073A93BC6AC3FA62A677010C5",
+      "size_bytes": 145
     },
     {
       "path": "resultados/ridge_coefficients_by_window.csv",

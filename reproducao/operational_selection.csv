@@ -1,0 +1,5 @@
+﻿Horizonte,Modelo_Selecionado,WMAPE_Validacao,Empatados,Regra
+H1,Baseline Último,0.14016282693597382,Baseline Último,menor WMAPE
+H2,Baseline Último,0.20499526608544716,Baseline Último,menor WMAPE
+H3,Baseline Último,0.25140833957947056,Baseline Último,menor WMAPE
+H4,Baseline Último,0.27697739555801015,Baseline Sazonal; Baseline Último,empate: preservado o modelo selecionado no horizonte anterior

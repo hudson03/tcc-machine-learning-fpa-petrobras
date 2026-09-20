@@ -1,0 +1,6 @@
+﻿Horizonte,Backend,Modelo,Status,Max_Dif_Beta,Max_Dif_Previsao,Dif_WMAPE,Nota
+H1,NumPy lstsq aumentado,Ridge,comparado,8.210918167605996e-09,3.990862751379609e-09,8.618106228652778e-15,Validação algébrica independente da solução np.linalg.solve
+H2,NumPy lstsq aumentado,Ridge,comparado,4.680259735323489e-09,2.1846062736585736e-09,4.6629367034256575e-15,Validação algébrica independente da solução np.linalg.solve
+H3,NumPy lstsq aumentado,Ridge,comparado,8.481947588734329e-09,4.07817424274981e-09,9.880984919163893e-15,Validação algébrica independente da solução np.linalg.solve
+H4,NumPy lstsq aumentado,Ridge,comparado,4.803951014764607e-09,1.1204974725842476e-09,1.1934897514720433e-15,Validação algébrica independente da solução np.linalg.solve
+Todos,scikit-learn,Ridge/RF/GB,não disponível,,,,ModuleNotFoundError: No module named 'sklearn'

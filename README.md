@@ -16,7 +16,7 @@ Este repositório reúne o código, a base analítica, o corpus documental e as 
 
 ## Base de dados
 
-A principal base está em `dados/DRE_Petrobras_2006_2026_PIPELINE_RECONSTRUIDO_4T18.xlsx`. Ela foi construída a partir de demonstrações financeiras públicas da Petrobras, conciliada após a mudança de apresentação entre ABAST e RTC no 4T18 e transformada na estrutura analítica usada na modelagem. O arquivo `dados/ml_source.json` contém a extração estruturada consumida pelos scripts.
+A principal base está em `dados/DRE_Petrobras_2006_2026.xlsx`. Ela foi construída a partir de demonstrações financeiras públicas da Petrobras, conciliada após a mudança de apresentação entre ABAST e RTC no 4T18 e transformada na estrutura analítica usada na modelagem. O arquivo `dados/ml_source.json` contém a extração estruturada consumida pelos scripts.
 
 O escopo geral reúne 621 registros na base analítica e 457 observações segmento-período destinadas à modelagem. Após a criação dos alvos, há 422 observações em H1, 415 em H2, 408 em H3 e 401 em H4.
 
